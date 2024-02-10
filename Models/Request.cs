@@ -1,10 +1,6 @@
-﻿using EduHome.Enums;
-using System;
-using System.Collections.Generic;
+﻿using EduHomeProject.Enums;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace EduHome.Models
 {
